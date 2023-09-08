@@ -12,7 +12,7 @@
 ### text(message, [initial], [style])
 > Text prompt for free text input.
 
-Hit <kbd>tab</kbd> to autocomplete to `initial` value when provided.
+Hit <kbd>tab</kbd> to autocomplete to `initial` .
 
 ***
 ### VHDL(EJEMPLOS)
