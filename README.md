@@ -4,11 +4,26 @@
 ## ❯ Types
 
 * [VHDL](#textmessage-initial-style)
-
+* [PYTHON](#textmessage-initial-style)
 
 ***
 
 ### VHDL(EJEMPLOS, PROYECTOS Y MAS)
-> Text prompt for free text input.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
-Hit <kbd>tab</kbd> to autocomplete to `initial` value when provided
+.
+.
+.
+.
+.
+.
+### PYTHON(EJEMPLOS, PROYECTOS Y MAS)
