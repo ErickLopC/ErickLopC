@@ -9,28 +9,46 @@
        
 # Installation
 D
+
 D
+
 D
+
 D
+
 D
+
 D
+
 D
+
 D
+
 #  Basic Usage
-This
+
 D
+
 D
+
 D
+
 D
-DD
+
+D
+
 D
 
 ## Quick Start
 D
+
 D
+
 D
+
 D
+
 D
+
 ## ❯ Types
 
 * [text](#textmessage-initial-style)
