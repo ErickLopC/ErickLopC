@@ -3,26 +3,29 @@
 
 ## ❯ Types
 
-* [VHDL](#EJEMPLOS-PROYECTOS-Y-MAS)
+* [VHDL](#EJEMPLOS)
 * [PYTHON](#EJEMPLOS)
-
+  
 ***
+
 ### VHDL(EJEMPLOS)
 >Text prompt for free text input.
 
 
 .
 
-.
+.VFVFD 
 
 .
 
 .
 
 .
-
+FDB
 .
+FDV
 
+FDB
 .
 
 .
