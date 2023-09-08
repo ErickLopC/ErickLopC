@@ -8,7 +8,7 @@
 
 ***
 ### VHDL(EJEMPLOS-,-PROYECTOS-Y-MAS)
->
+>Text prompt for free text input.
 
 
 .
@@ -39,7 +39,7 @@
 .
 ***
 ### PYTHON(EJEMPLOS, PROYECTOS Y MAS)
->
+>Text prompt for free text input.
 
 .
 .
