@@ -114,8 +114,4 @@ FDB
 
 .
 
-
-.DC
-```js
-
-
+**↑ back to:** [Prompt types](#-types)
