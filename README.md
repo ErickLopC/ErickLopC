@@ -3,7 +3,7 @@
 
 ## ❯ Types
 
-** [text](#textmessage-initial-style)
+* [text](#textmessage-initial-style)
 * [VHDL](#EJEMPLOS)
 * [PYTHON](#EJEMPLOS)
   
@@ -14,9 +14,11 @@
 
 Hit <kbd>tab</kbd> to autocomplete to `initial` value when provided.
 
-
+***
 ### VHDL(EJEMPLOS)
 >Text prompt for free text input.
+
+Hit <kbd>tab</kbd> to autocomplete to `EJEMPLOS` value when provided.
 
 
 .
