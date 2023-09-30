@@ -14,9 +14,13 @@ D
 
 D
 
+## UBUNTU
+
 ##### Intalacion de ubuntu(ros melodic) junto a windows
 
 ##### Instalacionde ubuntu (ros melodic) en raspberrypi 
+
+## ANACONDA
 
 #### (Configuracion de mundos con anaconda para el control de versiones y confgurar Tensorflown, openCv and more)
 
