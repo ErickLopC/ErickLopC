@@ -13,8 +13,11 @@ D
 D
 
 D
+Intalacion de ubuntu(ros melodic) junto a windows
+Instalacionde ubuntu (ros melodic) en raspberrypi 
 
-D
+Anaconda_Ubuntu 
+Anaconda_Windows
 
 D
 
