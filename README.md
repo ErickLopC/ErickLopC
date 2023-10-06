@@ -89,15 +89,12 @@ D
 Hit <kbd>tab</kbd>  `initial` .
 
 ***
-### VHDL(EJEMPLOS)
->Text prompt for free text input.
+### VHDL
 
-Hit <kbd>tab</kbd> to autocomplete to `EJEMPLOS` value when provided.
+**-** Animaciones
+Redimencionamiento de una figura
 
-
-.
-
-.VFVFD 
+**3.** Contador con salida en 7 segmentos.ASD Y DES
 
 .
 
