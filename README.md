@@ -33,6 +33,17 @@ D
 
 ##### Anaconda_RaspberryPI
 
+
+## INSTALACION DE PROGRAMAS
+
+#### Windows
+##### T
+
+#### RASBY
+
+###### SOFTWARES COMO -> ARDUINO
+###### CAMARA_RASBY_UBUNTU18
+
 D
 
 D
