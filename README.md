@@ -113,6 +113,8 @@ Redimencionamiento de una figura
 .
 
 
+# Algoritmos de Métodos numéricos
+
 
 # FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL
 
