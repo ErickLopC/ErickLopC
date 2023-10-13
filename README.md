@@ -23,17 +23,14 @@
 Hit <kbd>tab</kbd>  `initial` .
 
 ***
-### VHDL
+# VHDL
+[VHDL]()
 
-**-** Animaciones
-Redimencionamiento de una figura
 
-**3.** Contador con salida en 7 segmentos.ASD Y DES
 
-.
 
-# Ubuntu-Ros
-[Ubun-Ros](https://github.com/ErickLopC/UBUNTU__ROS)
+
+# [UBUNTU-ROS](https://github.com/ErickLopC/UBUNTU__ROS)
 
 # ANACONDA
 [AnacondA](https://github.com/ErickLopC/ANACONDA-/blob/main/README.md)
