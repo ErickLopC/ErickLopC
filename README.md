@@ -9,29 +9,6 @@
        
 
 
-
-## ANACONDA
-
-#### (Configuracion de mundos con anaconda para el control de versiones y confgurar Tensorflown, openCv and more)
-
-##### Anaconda_Ubuntu 
-
-##### Anaconda_Windows
-
-##### Anaconda_RaspberryPI
-
-
-
-
-D
-
-
-D
-
-D
-
-
-
 ## ❯ Types
 
 * [text](#textmessage-initial-style)
@@ -57,6 +34,9 @@ Redimencionamiento de una figura
 
 # Ubuntu-Ros
 [Ubun-Ros](https://github.com/ErickLopC/UBUNTU__ROS)
+
+# ANACONDA
+[AnacondA](https://github.com/ErickLopC/ANACONDA-/blob/main/README.md)
 
 # Microcontroller
 
