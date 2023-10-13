@@ -112,13 +112,11 @@ Redimencionamiento de una figura
 
 .
 
-.
-FDB
-.
-FDV
+# FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL
 
-FDB
-.
+1. Aprendizaje supervisado
+2. Aprendizaje no supervisado
+3. Aprendizaje reforzado
 
 .
 
