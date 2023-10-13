@@ -114,10 +114,10 @@ Redimencionamiento de una figura
 
 
 # Algoritmos de Métodos numéricos
-1. [Installation](#https://github.com/ErickLopC/Algoritmos-de-M-todos-num-ricos/blob/main/README.md
+
+[Installation](https://github.com/ErickLopC/Algoritmos-de-M-todos-num-ricos/blob/main/README.md
 )
   
-
 # FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL
 
 .
