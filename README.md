@@ -112,11 +112,9 @@ Redimencionamiento de una figura
 
 .
 
-# FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL
 
-1. Aprendizaje supervisado
-2. Aprendizaje no supervisado
-3. Aprendizaje reforzado
+
+# FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL
 
 .
 
