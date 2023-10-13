@@ -7,23 +7,6 @@
 2. [Basic Usage](#basic-usage)
     1. [Quick Start](#quick-start)
        
-# Installation
-D
-
-D
-
-D
-
-## UBUNTU
-
-#### Windows
-
-##### Intalacion de ubuntu(ros melodic) junto a windows
-
-#### RASBY
-##### Instalacionde ubuntu (ros melodic) en raspberrypi 
-###### CAMARA_RASBY_UBUNTU18
-###### INSTALACION DE ARDUINO CONF CON ROS 
 
 
 
@@ -72,7 +55,8 @@ Redimencionamiento de una figura
 
 .
 
-.
+# Ubuntu-Ros
+[Ubun-Ros](https://github.com/ErickLopC/UBUNTU__ROS)
 
 # Microcontroller
 
