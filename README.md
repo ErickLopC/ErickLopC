@@ -13,6 +13,9 @@
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 # [UBUNTU-ROS](https://github.com/ErickLopC/UBUNTU__ROS)
+ 
+ <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 # [ANACONDA](https://github.com/ErickLopC/ANACONDA-/blob/main/README.md)
 
