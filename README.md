@@ -1,4 +1,7 @@
+### <¡Holaaaaaaaaaaaaaaaaaaa !> 👋
 
+
+📫 Mesaje a :ec667709@gmail.com
 
 # Table of Contents
 
@@ -7,6 +10,7 @@
 # [VHDL](https://github.com/ErickLopC/VHDL_/tree/main)
 
 # [CONTROLADORES](https://github.com/ErickLopC/Dise-o-de-Controladores)
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 # [UBUNTU-ROS](https://github.com/ErickLopC/UBUNTU__ROS)
 
