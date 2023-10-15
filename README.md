@@ -9,6 +9,8 @@
 
 # [VHDL](https://github.com/ErickLopC/VHDL_/tree/main)
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
 # [CONTROLADORES](https://github.com/ErickLopC/Dise-o-de-Controladores)
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
