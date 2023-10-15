@@ -6,7 +6,7 @@
 
 # [VHDL](https://github.com/ErickLopC/VHDL_/tree/main)
 
-# [CONTROLADORES](https://github.com/ErickLopC/UBUNTU__ROS)
+# [CONTROLADORES](https://github.com/ErickLopC/Dise-o-de-Controladores)
 
 # [UBUNTU-ROS](https://github.com/ErickLopC/UBUNTU__ROS)
 
