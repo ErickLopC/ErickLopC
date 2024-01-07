@@ -36,7 +36,7 @@
 
 .
 
-# [TARJETAS DE DESARROLLO ](hhttps://github.com/ErickLopC/Tarjetas_desarrollo)
+# [TARJETAS DE DESARROLLO ](https://github.com/ErickLopC/Tarjetas_desarrollo)
 
 
 .
