@@ -28,8 +28,6 @@
 
 # [ALGORITMOS - MÉTODOS NUMÉRICOS](https://github.com/ErickLopC/Algoritmos-de-M-todos-num-ricos/blob/main/README.md)
 
-#  [FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL](https://github.com/ErickLopC/REDES)
-
 
 #  [FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL](https://github.com/ErickLopC/REDES)
 .
