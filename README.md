@@ -36,7 +36,7 @@
 
 .
 
-# [FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL](hhttps://github.com/ErickLopC/Tarjetas_desarrollo)
+# [TARJETAS DE DESARROLLO ](hhttps://github.com/ErickLopC/Tarjetas_desarrollo)
 
 
 .
