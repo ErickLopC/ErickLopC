@@ -37,7 +37,7 @@
 # [TARJETAS DE DESARROLLO ](https://github.com/ErickLopC/Tarjetas_desarrollo)
 
 
-# [REDES-COMUNICACION](https://github.com/ErickLopC/COMUN_REDES)
+# [REDES-COMUNICACIÓN](https://github.com/ErickLopC/COMUN_REDES)
 
 .
 .
