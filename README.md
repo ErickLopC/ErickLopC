@@ -20,23 +20,28 @@
  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 # [ANACONDA](https://github.com/ErickLopC/ANACONDA-/blob/main/README.md)
-
-
-
-
+.
+.
+.
 # [MICROCONTROLLER](https://github.com/ErickLopC/Microcontroller-/blob/main/README.md)
-
+.
+.
+.
 # [ALGORITMOS - MÉTODOS NUMÉRICOS](https://github.com/ErickLopC/Algoritmos-de-M-todos-num-ricos/blob/main/README.md)
 
-
+.
+.
+.
 #  [FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL](https://github.com/ErickLopC/REDES)
 .
-
+.
 .
 
 # [TARJETAS DE DESARROLLO ](https://github.com/ErickLopC/Tarjetas_desarrollo)
 
-
+.
+.
+.
 # [REDES-COMUNICACIÓN](https://github.com/ErickLopC/COMUN_REDES)
 
 .
