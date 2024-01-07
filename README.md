@@ -31,12 +31,13 @@
 #  [FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL](https://github.com/ErickLopC/REDES)
 
 
-
+#  [FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL](https://github.com/ErickLopC/REDES)
 .
 
 .
 
-.
+# [FUNDAMENTOS_INTELIGENCIA_ARTIFICIAL](hhttps://github.com/ErickLopC/Tarjetas_desarrollo)
+
 
 .
 
