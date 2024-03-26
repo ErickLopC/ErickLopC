@@ -53,7 +53,7 @@
 
 .
 
-# [AUTOMATRIZACION](https://github.com/ErickLopC/AUTOMATIZACION)
+# [AUTOMATION](https://github.com/ErickLopC/AUTOMATIZACION)
 .
 .
 # [---](https://github.com/ErickLopC/D_TODO)
